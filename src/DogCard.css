@@ -1,0 +1,16 @@
+.dogCard{
+  position: relative;
+  width: 200px;
+}
+
+.dogCard img {
+   display: block; 
+   width: 200px;
+  }
+
+.dogCard .like { 
+  position: absolute; 
+  bottom:0; 
+  left:0;
+  width: 40px; 
+}
